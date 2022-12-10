@@ -840,10 +840,10 @@ let teks = `Hallo *${cekUser("id", sender) !== null ? cekUser("name", sender) : 
 *Pilih aja payment di bawah ya☺*
 
 *Donasi • Emoney*
-- *Dana : 08817839722*
+- *Dana : 088214989352*
 - *Gopay : 08817839722*
 - *Ovo : 08817839722*
-- *Saweria : https://saweria.co/RonzzYT*
+- *Saweria : https://saweria.co/*
 - *SociaBuzz : https://sociabuzz.com/ronzzofc/donate*
 - *Qris : Scan qr di atas*
 
@@ -914,7 +914,7 @@ let teks = `Hallo *${cekUser("id", sender) !== null ? cekUser("name", sender) : 
 Ini adalah *BASE BOT MD* buatan *Ronzz YT*
 
 *Link Script / Base Bot :*
-https://github.com/Ronzz-Ofc/BaseMD
+https://github.com/HamzBotzzzzz/BaseMD
 
 *Script no enc 100%*
 *Mudah untuk di recode*
